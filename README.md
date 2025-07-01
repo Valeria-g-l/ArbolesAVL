@@ -50,4 +50,5 @@ avl.insert(15);
 
 
 ![alt text](image.png)
-https://file+.vscode-resource.vscode-cdn.net/Users/jamilethkumpanam/Desktop/EDD/ArbolesAVL/image.png?version%3D1751412762241![alt text](image.png)
+
+![alt text](image-1.png)

@@ -1,3 +1,4 @@
+![alt text](image-1.png)
 # Estructuras lineales
 
 ## 📌 Información General
@@ -48,7 +49,3 @@ avl.insert(10);
 avl.insert(20);
 avl.insert(15);
 
-
-![alt text](image.png)
-
-![alt text](image-1.png)
